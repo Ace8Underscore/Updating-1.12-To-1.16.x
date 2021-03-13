@@ -1,5 +1,5 @@
 # Updating-1.12-To-1.16.x
-This is a guide on how to update your anarchy 1.12.2 client to a more recent version of Minecraft like 1.16.x. Seeing how 2b is experimenting with 1.16.4 and it seems to be going well we might see an a change from 1.12.2 to 1.16.4 on 2b and maybe more server will follow it. 
+This is a guide on how to update your anarchy 1.12.2 client to a more recent version of Minecraft like 1.16.x. Seeing how 2b is experimenting with 1.16.4 and it seems to be going well we might see a change from 1.12.2 to 1.16.4 on 2b and maybe more server will follow it. 
 
 ## Dont skip anything this is all really important
 
