@@ -29,11 +29,11 @@ Alot changed from 1.12.2 to 1.16.5 so you're gonna have to do alot of remapping 
 One more thing its not Minecraft.getMinecraft() its now Minecraft.getInstance()
 https://gist.github.com/williewillus/2dfc945b7b7fdb69cc3ff830072d22fe
 
-##Logging Into My Own Account
+## Logging Into My Own Account
 Go ahead and gen your intellijruns and go to run client and paste this into Program Arguments --username=(email) --password=(password)
 
-##Issues
+## Issues
 Forge is very buggy and weird so you might get alot of errors when trying to do things as the client starts up ie initialize settings which i ran into. I'd Also recommend to use Brady's Event Manager because before this i was using a different one causing my game to crash when i'd join a world
 
-##Recommendations
+## Recommendations
 If you want to check and see if this worked i would either move out a bunch of classes or comment them out(worry about the mc errors later) So you can fix your client to work with 1.16.5. Any other problems i reccomend messaging me on discord or just doing some research and looking at forge examples.
