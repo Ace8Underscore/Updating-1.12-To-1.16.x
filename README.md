@@ -4,7 +4,7 @@ This is a guide on how to update your anarchy 1.12.2 client to a more recent ver
 ## Dont skip anything this is all really important
 
 ## Info
-Im assuming you already have a "base" or "client" you want to do this with but if you dont this can still supply you with some good basics for using updated forge and mc. Im also assuming you have basic java and ide knowledge.
+Im assuming you already have a "base" or "client" you want to do this with but if you dont this can still supply you with some good basics for using updated forge and mc. Im also assuming you have basic java and ide knowledge. ik i have bad grammar 
 
 
 ## Setup
